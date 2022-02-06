@@ -1,2 +1,3 @@
 # Tutorat d'Informatique Embarquée de l'IUT Nancy-Brabois par Sydney ROBAUX
-Le lieu pour trouver les codes sources des exercices réalisés lors des séances de tutorat.
+Vous trouverez les codes sources des exercices traités lors des séances ainsi que les "cheatsheets".
+Ces documents sont réservés aux élèves ayant participés aux séances respectives de tutorat d’informatique embarquée.
